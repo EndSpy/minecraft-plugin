@@ -1,8 +1,0 @@
-main: me.peter.Hub.Main
-name: Hub
-version: 1
-author: Peter
-
-commands:
-  Discord:
-  Realm:
